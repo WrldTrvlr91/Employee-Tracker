@@ -9,7 +9,7 @@ Colourful command line application which allows the end user to interact with an
 
 The end user is able to complete the following functions;
 
-### View 
+**View** 
 * All Employees
 * All Employees by Department
 * All Employees by Manager
@@ -17,30 +17,26 @@ The end user is able to complete the following functions;
 * All Roles
 * Total buget utilised
 
-
-### Add
+**Add**
 * Department
 * Role
 * Employee
 
-
-### Update
+**Update**
 * Employee Current Role
     
 
-# Images
+# Images & GIF's
 
-### Initial Screen
-![index html screenshot](public/images/initialscreen.png)
+**Initial Screen**
+![initial screen](public/images/initialscreen.png)
 
-### View Employees by Department
-![notes html screenshot](public/images/emplbydept.png)
+**View Employees by Department**
+![employees by department](public/images/emplbydept.png)
 
+**GIF Entire Application**
 
-# Video
-
-Video showcasing entire command line application can be found [here](public/video/employeaplication.mov)
-
+![gif of entire application](public/images/employeeapplication.gif)
 
 # Contact
 
