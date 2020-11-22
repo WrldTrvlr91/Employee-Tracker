@@ -29,7 +29,7 @@ The end user is able to complete the following functions;
 # Images & GIF's
 
 **Initial Screen**
-![initial screen](public/images/initialscreen.png)
+![initial screen](public/images/Initialscreen.png)
 
 **View Employees by Department**
 ![employees by department](public/images/emplbydept.png)
