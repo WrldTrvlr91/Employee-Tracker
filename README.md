@@ -39,7 +39,7 @@ The end user is able to complete the following functions;
 
 # Video
 
-Video showcasing entire command line application can be found [here]
+Video showcasing entire command line application can be found [here](public/video/employeaplication.mov)
 
 
 # Contact
